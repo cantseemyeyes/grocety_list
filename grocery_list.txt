@@ -6,3 +6,7 @@ Grocery List:
 - Beer
 - Beef
 - Bacon
+- More beer!
+- Crackers
+- Cheetos
+- Wine (for Sara)
