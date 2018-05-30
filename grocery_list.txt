@@ -2,7 +2,7 @@ Grocery List:
 - Bananas
 - Oranges 
 - Chicken
-- Juice
 - Beer
 - Beef
 - Bacon
+- Water
