@@ -1,0 +1,7 @@
+Grocery List:
+- Bananas
+- Oranges 
+- Ramen
+- Chicken
+- Juice
+- Beer
